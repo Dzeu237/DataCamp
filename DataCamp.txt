@@ -1,0 +1,46 @@
+Titre: Creation et Implementation d'une Application Web Application 
+
+	But:
+
+Creation d'une application pour louer/acheter des articles chez dans les marches ou supermarche pres de chez soi avec un suivi
+en temps reel
+
+	Interets :
+
+* Valoriser une main d'oeuvre a proximate et moins chers
+
+* Source de Revenu Secondaire
+
+	Fonctionalites :
+
+* Geo-localisation
+
+* Formulaire des Taches
+
+* Code de recuperation
+
+* Suivi du statut des articles
+
+* Connexion / Inscription
+
+* Bonus: Paiement en ligne
+
+* Bonus: Messagerie si on a le temps
+
+	Principes:
+Depuis chez soi, louer/acheter aupres de chez vous a pris reduit, l'application se base sur votre localisation pour vous proposer
+pres de chez vous ainsi faire des connaissances avec vos voisins et creer une source de revenu secondaire
+
+	Base de Donnees:
+
+* Personne
+
+* Article
+
+* Commande
+
+* Statut
+
+* Entreprise
+
+* Avis
